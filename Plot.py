@@ -8,7 +8,7 @@ import random
 from scipy import signal
 from scipy.sparse import rand
 from CP import *
-from PD-DRS import *
+from DR import *
 from Functions import *
 from Utils import *
 
