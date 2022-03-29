@@ -5,7 +5,7 @@ We introduce two proximal operator-based algorithms, namely Chambolle-Pock and P
 Problem: 
 $$min_{x} \frac{1}{2} \|{Ax-b}\|^2 + \lambda \|{Dx}\|_0 $$
 
-##Run
+# Run
 
 Main.py
 
