@@ -4,7 +4,7 @@ We introduce two proximal operator-based algorithms, namely Chambolle-Pock and P
 
 Problem: 
 ```math 
-$\min 1/2 ||Ax-b||^2 + \lambda ||Dx||_0$
+$`\min 1/2 ||Ax-b||^2 + \lambda ||Dx||_0`$
 ```
 
 ## Run
