@@ -7,6 +7,9 @@ min 1/2 ||Ax-b||^2 + \lambda ||Dx||_0
 
 ## Run
 
+```bash
+cd Thesis
 Main.py
 
 Plot.py
+```
