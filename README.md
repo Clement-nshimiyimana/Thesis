@@ -6,7 +6,7 @@ Problem:
 ```math 
 $`\min 1/2 ||Ax-b||^2 + \lambda ||Dx||_0`$
 ```
-%5Cmin%201%2F2%20%7C%7CAx-b%7C%7C%5E2%20%2B%20%5Clambda%20%7C%7CDx%7C%7C_0
+![\min \frac{1}{2}||Ax-b||^2 + \lambda ||Dx||_0](http://www.sciweavers.org/tex2img.php?eq=%5Cmin%20%5Cfrac%7B1%7D%7B2%7D%7C%7CAx-b%7C%7C%5E2%20%2B%20%5Clambda%20%7C%7CDx%7C%7C_0&fc=Black&im=jpg&fs=12&ff=arev&edit=)
 
 ## Run
 
