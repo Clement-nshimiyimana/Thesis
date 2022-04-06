@@ -23,10 +23,6 @@ def J2(INV, r, x):
 def J1(par,x):
     return np.sign(x)*np.maximum(np.abs(x)-par,0) 
 
-def J1(par,x):
-    return np.maximum(np.abs(x)-par,0)*np.sign(x)
-
-
 #L0 norm 
 def J0(par,x):
     d = len(x)

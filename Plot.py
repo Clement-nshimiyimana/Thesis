@@ -9,7 +9,7 @@ from scipy import signal
 from scipy.sparse import rand
 from CP import *
 from DR import *
-from Functions import *
+from Functions import J1,J2,J0, J0_1D,Jm2,l0_norm,l1_norm
 from Utils import *
 
 if __name__ == "__main__":
